@@ -1,0 +1,125 @@
+.section1 {
+    background-color: #f6214b;
+    background-image: url(https://preview.colorlib.com/theme/immigration/img/header-img.png.webp);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    height: 88vh;
+    color: white;
+
+    .container {
+        max-width: 1140px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        height: 100%;
+
+        .content {
+            margin-bottom: 15%;
+            width: 70%;
+            padding: 0 15px;
+
+
+            h6 {
+                font-size: 14px;
+                font-weight: 300;
+            }
+
+            h1 {
+                font-size: 60px;
+                margin: 20px 0;
+            }
+
+            button {
+                background-color: #fff;
+                color: #222;
+                border-radius: 0;
+                font-weight: 600;
+                font-size: 13px;
+                padding: 10px 20px;
+                border: 1px solid transparent;
+                transition: all 0.3s ease 0s;
+            }
+        }
+
+
+
+    }
+}
+
+.section2 {
+    background-color: #f9f9ff;
+
+    .container {
+        max-width: 1140px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        height: 100%;
+        padding: 30px;
+        gap: 30px;
+
+        h6 {
+            font-size: 30px;
+            text-align: right;
+            font-weight: 100;
+            line-height: 1.1em;
+            color: #222;
+        }
+    }
+
+    p {
+        color: #777777;
+        font-family: "Poppins", sans-serif;
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 1.625em;
+        text-align: left;
+        width: 59%;
+    }
+
+    button {
+        background-color: #f6214b;
+        color: #fff;
+        border-radius: 0;
+        font-size: 13px;
+        padding: 10px 25px;
+        font-weight: 600;
+        border: 1px solid transparent;
+        transition: all 0.3s ease 0s;
+    }
+}
+
+.section3 {
+    margin-top: 20px;
+    .container {
+        max-width: 1140px;
+        margin: 30px auto;
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        padding: 50px 0 30px;
+        text-align: center;
+        width: 31%;
+
+        p {
+            color: #777777;
+            font-family: "Poppins", sans-serif;
+            font-size: 14px;
+            font-weight: 300;
+            line-height: 1.625em;
+            margin-top: 20px;
+        }
+    }
+
+}.section4{
+.container{
+    max-width: 1140px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    h1{
+        font-size:16px ;
+    }
+}
+}
